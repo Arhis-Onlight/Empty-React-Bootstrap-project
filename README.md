@@ -1,6 +1,6 @@
 # Empty React Bootstrap project
 
-### It's empty React + Bootstrap app project that include all settings to start coding your project;
+### It's an empty React + Bootstrap App project, that includes all essential settings to start coding your project
 1) Just copy it to your future project folder, 
 2) Type in console at your project folder: <code>npm install</code>
 3) Take a look at "scripts" section at "package.json"
