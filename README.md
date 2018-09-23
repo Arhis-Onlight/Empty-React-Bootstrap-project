@@ -2,7 +2,8 @@
 
 1) To install a babel use: npm install -g babel-cli@6.24.1
 2) To install a live-server use: npm install -g live-server
-All will be installed globally so you will need to do it again
+
+All will be installed globally so you will not have a need to do it again
 
 
 Here we go...
