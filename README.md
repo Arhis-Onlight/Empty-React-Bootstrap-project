@@ -1,12 +1,12 @@
 # Empty React Bootstrap project
 
 ### It's empty React + Bootstrap app project that include all settings to start coding your project;
-+ Just copy it to your future project folder, 
-+ type in console: npm install
-+ take a look at "scripts" section at "package.json"
+1) Just copy it to your future project folder, 
+2) type in console at your project folder: <code>npm install</code>
+3) take a look at "scripts" section at "package.json"
 
-1) To install a babel use: <code>npm install -g babel-cli@6.24.1</code>
-2) To install a live-server use: <code>npm install -g live-server</code>
++ To install a babel use: <code>npm install -g babel-cli@6.24.1</code>
++ To install a live-server use: <code>npm install -g live-server</code>
 
 > All will be installed globally so you will not have a need to do it again
 
