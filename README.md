@@ -5,7 +5,7 @@
 + type in console: npm install
 + take a look at "scripts" section at "package.json"
 
-1) To install a babel use: npm install -g babel-cli@6.24.1
+1) To install a babel use: <code>npm install -g babel-cli@6.24.1</code>
 2) To install a live-server use: npm install -g live-server
 
 > All will be installed globally so you will not have a need to do it again
