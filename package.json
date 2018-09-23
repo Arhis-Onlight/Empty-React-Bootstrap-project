@@ -1,0 +1,17 @@
+{
+  "name": "react_1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "browserify public/scripts/app.js > public/scripts/bundle.js",
+    "live": "live-server public",
+    "wf": "watchify public/scripts/app.js -o public/scripts/bundle.js",
+    "bab": "babel src/app.js --out-file=public/scripts/app.js --presets=env,react --watch"
+  },
+  "author": "Arhis Onlight",
+  "license": "MIT",
+  "dependencies": {
+    "babel-preset-env": "1.5.2",
+    "babel-preset-react": "6.24.1"    
+  }
+}
